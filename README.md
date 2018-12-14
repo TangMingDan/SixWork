@@ -6,6 +6,7 @@
 >点击其他Tab的时候会切换，并有提示消息，告诉你切换到第几个页面了
 ![Alt text](https://github.com/TangMingDan/SixWork/blob/master/images/click.png)
 ##滑动切换
+
 >滑动的时候也会切换，也会产生消息告诉你切换的页面
 ![Alt text](https://github.com/TangMingDan/SixWork/blob/master/images/slide.png)
 
